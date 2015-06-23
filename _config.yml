@@ -1,0 +1,3 @@
+gems:
+- jekyll-textile-converter
+textile_ext: "textile,txtl,tl"
