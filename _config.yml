@@ -1,3 +1,12 @@
-gems:
-- jekyll-textile-converter
-textile_ext: "textile,txtl,tl"
+# Site settings
+title: Carmen Tang's Travel Blog
+email: carmentang67@mgmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  UC Berkeley | Computer Science | Travel, Eat, Love
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://carmentang.github.io" # the base hostname & protocol for your site
+twitter_username: icarmenx
+github_username:  carmentang
+
+# Build settings
+markdown: kramdown

@@ -77,8 +77,11 @@ GEM
     jekyll-sass-converter (1.2.0)
       sass (~> 3.2)
     jekyll-sitemap (0.8.1)
+<<<<<<< HEAD
+=======
     jekyll-textile-converter (0.1.0)
       RedCloth (~> 4.0)
+>>>>>>> 53af8c2dcdeafbb6794d42f50132b653a44191ef
     jekyll-watch (1.2.1)
       listen (~> 2.7)
     jemoji (0.4.0)
@@ -112,7 +115,11 @@ GEM
     rdiscount (2.1.7)
     redcarpet (3.3.1)
     safe_yaml (1.0.4)
+<<<<<<< HEAD
+    sass (3.4.14)
+=======
     sass (3.4.15)
+>>>>>>> 53af8c2dcdeafbb6794d42f50132b653a44191ef
     terminal-table (1.4.5)
     thread_safe (0.3.5)
     timers (4.0.1)
@@ -128,7 +135,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+<<<<<<< HEAD
+=======
   jekyll-textile-converter
+>>>>>>> 53af8c2dcdeafbb6794d42f50132b653a44191ef
 
 BUNDLED WITH
    1.10.4
