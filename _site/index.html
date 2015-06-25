@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!-- <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p> -->
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -65,11 +67,11 @@
                 <div id="navbarCollapse" class="collapse navbar-collapse">
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#Home" style="color: white;">Home</a></li>
-                        <li><a href="Ireland">Ireland</a></li>
-                        <li><a href="#Travel">Travel</a></li>
-                        <li><a href="#Food">Food</a></li>
-                        <li><a href="#About">About</a></li>
+                        <li><a href="/" style="color: white;">Home</a></li>
+                        <li><a href="/Blog">Blog</a></li>
+                        <li><a href="/Travel">Travel</a></li>
+                        <li><a href="/Food">Food</a></li>
+                        <li><a href="/about.html">About</a></li>
                     </ul>
                 </div>
             </div>
@@ -81,174 +83,83 @@
             }
         });
     </script>    
-        <div>
-            <a id="Home"></a>
-            <div class="bs-example">
-                <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel">
-                    <!-- Carousel indicators -->
-                    <ol class="carousel-indicators">
-                        <li class="slide-one active"></li>
-                        <li class="slide-two"></li>
-                        <li class="slide-three"></li>
-                    </ol>
-                    <!-- Carousel items -->
-                    <div class="carousel-inner">
-                        <div class="active item" style="background-image: url('Images/slide1.jpg'); max-width:100%;height:auto;">
-                            <div class="wow bounceInDown center animated" data-wow-delay="100ms" data-wow-iteration="1" data-wow-duration="3s" style="visibility: visible; -webkit-animation-duration: 3s; -webkit-animation-delay: 200ms; -webkit-animation-iteration-count: infinite;">
-                                <h2>Live</h2>
-                            </div>
-                            <div class="carousel-caption">
-                                <div class="wow slideInRight">
-                                    <h3>Live life to the fullest</h3>
-                                </div>
-                                <div class="wow slideInLeft">
-                                    <p>Live Laugh Love</p>
-                                </div>
-                            </div>
+       
+
+    <div class="page-content">
+      <div class="wrapper">
+            <div>
+        <a id="Home"></a>
+        <div class="bs-example">
+            <div id="myCarousel" class="carousel slide" data-interval="5000" data-ride="carousel">
+                <!-- Carousel indicators -->
+                <ol class="carousel-indicators">
+                    <li class="slide-one active"></li>
+                    <li class="slide-two"></li>
+                    <li class="slide-three"></li>
+                </ol>
+                <!-- Carousel items -->
+                <div class="carousel-inner">
+                    <div class="active item" style="background-image: url('Images/slide1.jpg'); max-width:100%;height:auto;">
+                        <div class="wow bounceInDown center animated" data-wow-delay="100ms" data-wow-iteration="1" data-wow-duration="3s" style="visibility: visible; -webkit-animation-duration: 3s; -webkit-animation-delay: 200ms; -webkit-animation-iteration-count: infinite;">
+                            <h2>Live</h2>
                         </div>
-                        <div class="item" style="background-image: url('Images/slide2.jpg'); max-width:100%;height:auto;">
-                            <div class="wow bounceInDown center animated" data-wow-delay="100ms" data-wow-iteration="1" data-wow-duration="3s" style="visibility: visible; -webkit-animation-duration: 3s; -webkit-animation-delay: 200ms; -webkit-animation-iteration-count: infinite;">
-                                <h2>Laugh</h2>
+                        <div class="carousel-caption">
+                            <div class="wow slideInRight">
+                                <h3>Live life to the fullest</h3>
                             </div>
-                            <div class="carousel-caption">
-                                <div class="wow slideInRight">
-                                    <h3>Explore the world</h3>
-                                </div>
-                                <div class="wow slideInLeft">
-                                    <p>Live Laugh Love</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item" style="background-image: url('Images/slide3.jpg'); max-width:100%;height:auto;">
-                            <div class="wow bounceInDown center animated" data-wow-delay="100ms" data-wow-iteration="1" data-wow-duration="3s" style="visibility: visible; -webkit-animation-duration: 3s; -webkit-animation-delay: 200ms; -webkit-animation-iteration-count: infinite;">
-                                <h2>Love</h2>
-                            </div>
-                            <div class="carousel-caption">
-                                <div class="wow slideInRight">
-                                    <h3>Optimism is key</h3>
-                                </div>
-                                <div class="wow slideInLeft">
-                                    <p>Live Laugh Love</p>
-                                </div>
+                            <div class="wow slideInLeft">
+                                <p>Live Laugh Love</p>
                             </div>
                         </div>
                     </div>
-                    <!-- Carousel nav -->
-                    <a class="carousel-control left">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
-                    </a>
-                    <a class="carousel-control right">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
-                    </a>
+                    <div class="item" style="background-image: url('Images/slide2.jpg'); max-width:100%;height:auto;">
+                        <div class="wow bounceInDown center animated" data-wow-delay="100ms" data-wow-iteration="1" data-wow-duration="3s" style="visibility: visible; -webkit-animation-duration: 3s; -webkit-animation-delay: 200ms; -webkit-animation-iteration-count: infinite;">
+                            <h2>Laugh</h2>
+                        </div>
+                        <div class="carousel-caption">
+                            <div class="wow slideInRight">
+                                <h3>Explore the world</h3>
+                            </div>
+                            <div class="wow slideInLeft">
+                                <p>Live Laugh Love</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item" style="background-image: url('Images/slide3.jpg'); max-width:100%;height:auto;">
+                        <div class="wow bounceInDown center animated" data-wow-delay="100ms" data-wow-iteration="1" data-wow-duration="3s" style="visibility: visible; -webkit-animation-duration: 3s; -webkit-animation-delay: 200ms; -webkit-animation-iteration-count: infinite;">
+                            <h2>Love</h2>
+                        </div>
+                        <div class="carousel-caption">
+                            <div class="wow slideInRight">
+                                <h3>Optimism is key</h3>
+                            </div>
+                            <div class="wow slideInLeft">
+                                <p>Live Laugh Love</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                <!-- Carousel nav -->
+                <a class="carousel-control left">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                <a class="carousel-control right">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
             </div>
-
-                <div class="wow bounceInUp">
-                    <main>
-        <!--<a name="WhoWeAre"></a>-->
-          <a id="Blog"></a>
-        <section id="cd-team" class="cd-section whoweare">
-            <div class="cd-container" >
-                <h3>Who We Are</h3>
-                <ul>
-                    <li>
-                        <a href="#0" data-type="member-1">
-                            <figure>
-                                <img src="Images/team-member-1.jpg" alt="Team member 1">
-                                <div class="cd-img-overlay"><span>View Bio</span></div>
-                            </figure>
-
-                            <div class="cd-member-info">
-                                Carmen Tang <span>Blossom</span>
-                            </div> <!-- cd-member-info -->
-                        </a>
-                    </li>
-                    
-                    <li>
-                        <a href="#0" data-type="member-2">
-                            <figure>
-                                <img src="Images/team-member-1.jpg" alt="Team member 1">
-                                <div class="cd-img-overlay"><span>View Bio</span></div>
-                            </figure>
-
-                            <div class="cd-member-info">
-                                Calvin Tran <span>Buttercup</span>
-                            </div> <!-- cd-member-info -->
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="#0" data-type="member-3">
-                            <figure>
-                                <img src="Images/team-member-1.jpg" alt="Team member 1">
-                                <div class="cd-img-overlay"><span>View Bio</span></div>
-                            </figure>
-
-                            <div class="cd-member-info">
-                                Cindy Voong <span>Bubbles</span>
-                            </div> <!-- cd-member-info -->
-                        </a>
-                    </li>
-                </ul>
-            </div> <!-- cd-container -->
-        </section> <!-- cd-team -->
-
-        <div class="cd-overlay"></div>
-    </main>
-                </div>
+        </div>
+            <div class="wow bounceInUp">
+                <main>
 
 
-                <div class="cd-member-bio member-1">
-                    <div class="cd-member-bio-pict">
-                        <img src="Images/member-bio-img-1.jpg" alt="Member Bio image">
-                    </div>
-                    <!-- cd-member-bio-pict -->
 
-                    <div class="cd-bio-content">
-                        <h1>Meet Carmen Tang</h1>
-                        <p>She is in Ireland</p>
-                        <p>Bijou is the absolute best in the world like omg yeah yeah, she's almost ten years old and she is the absolute fricken best!!</p>
-                    </div>
-                    <!-- cd-bio-content -->
-                </div>
-                <!-- cd-member-bio -->
-
-                <div class="cd-member-bio member-2">
-                    <div class="cd-member-bio-pict">
-                        <img src="Images/member-bio-img-2.jpg" alt="Member Bio image">
-                    </div>
-                    <!-- cd-member-bio-pict -->
-
-                    <div class="cd-bio-content">
-                        <h1>Meet Calvin Tran</h1>
-                        <p>He is in the Bay Area</p>
-                        <p>He is like super duper tall and like omg I can't even sometimes because he should be studying abroad with me but no he's going to take a nap now and he loves Bijou too.</p>
-                    </div>
-                    <!-- cd-bio-content -->
-                </div>
-                <!-- cd-member-bio -->
-
-                <div class="cd-member-bio member-3">
-                    <div class="cd-member-bio-pict">
-                        <img src="Images/member-bio-img-3.jpg" alt="Member Bio image">
-                    </div>
-                    <!-- cd-member-bio-pict -->
-
-                    <div class="cd-bio-content">
-                        <h1>Meet Cindy Voong</h1>
-                        <p>She is also in the Bay Area</p>
-                        <p>She misses Calvin and Calvin misses her too and we used to play water balloon fights and she loves Bijou and she has two other dogs like omg remember PPG we need to make those hoodies and we gotta wear them!!</p>
-                    </div>
-                    <!-- cd-bio-content -->
-                </div>
-                <!-- cd-member-bio -->
-                <a href="#0" class="cd-member-bio-close">Close</a>
-                <!-- close the author bio section -->
-
-                <script src="js/main.js"></script>
-                <!-- Gem jQuery -->
-
+        <a id="Gallery"></a>
+        <div class="wow slideInRight">
+            <div class="row gallary">
+                <h3>Gallery At Glance</h3>
+                 <iframe src="Flip_turn/index.html" height="650" style="border: 0px; width:100%;"></iframe>
             </div>
+        </div>
 
 
 
@@ -257,11 +168,26 @@
                 <div class="container">
                     <div class="wow slideInLeft">
                         <div class="row">
-                                <div class="product_head">What We Offer</div>
+                                <div class="product_head">Latest Posts</div>
+
+
                             <div class="col-md-4 col-sm-6 products ">
                                 <h2>
                                     <a><span class="glyphicon glyphicon-stats"></span></a>&nbsp;&nbsp;Product 1</h2>
-                                <p>
+                                <p> 
+
+                                  <ul class="post-list">
+                                    
+                                      <li>
+                                        <span class="post-meta">Jun 24, 2015</span>
+
+                                        <h3>
+                                          <a class="post-link" href="/2015/06/24/week-one.html">Week One</a>
+                                        </h3>
+                                      </li>
+                                    
+                                  </ul>
+
                                     Maxime, quis, animi, ad quasi adipisci suscipit alias iste reprehenderit ea placeat nulla commodi nobis magnam provident veniam earum odit eveniet possimus aut voluptatum dolorum culpa necessitatibus facere totam quisquam. Ipsam.
                                 </p>
                             </div>
@@ -270,6 +196,19 @@
                                 <h2>
                                     <a><span class="glyphicon glyphicon-road"></span></a>&nbsp;&nbsp;Product 2</h2>
                                 <p>
+                                    <ul class="post-list">
+                                    
+                                      <li>
+                                        <span class="post-meta">Jun 24, 2015</span>
+
+                                        <h3>
+                                          <a class="post-link" href="/2015/06/24/week-one.html">Week One</a>
+                                        </h3>
+                                      </li>
+                                    
+                                    </ul>
+
+
                                     Maxime, quis, animi, ad quasi adipisci suscipit alias iste reprehenderit ea placeat nulla commodi nobis magnam provident veniam earum odit eveniet possimus aut voluptatum dolorum culpa necessitatibus facere totam quisquam. Ipsam.
                                 </p>
                             </div>
@@ -278,6 +217,18 @@
                                 <h2>
                                     <a><span class="glyphicon glyphicon-refresh"></span></a>&nbsp;&nbsp;Product 3</h2>
                                 <p>
+                                    <ul class="post-list">
+                                    
+                                      <li>
+                                        <span class="post-meta">Jun 24, 2015</span>
+
+                                        <h3>
+                                          <a class="post-link" href="/2015/06/24/week-one.html">Week One</a>
+                                        </h3>
+                                      </li>
+                                    
+                                    </ul>
+
                                     Maxime, quis, animi, ad quasi adipisci suscipit alias iste reprehenderit ea placeat nulla commodi nobis magnam provident veniam earum odit eveniet possimus aut voluptatum dolorum culpa necessitatibus facere totam quisquam. Ipsam.
                                 </p>
                             </div>
@@ -286,6 +237,19 @@
                                 <h2>
                                     <a><span class="glyphicon glyphicon-fire"></span></a>&nbsp;&nbsp;Product 4</h2>
                                 <p>
+
+                                    <ul class="post-list">
+                                    
+                                      <li>
+                                        <span class="post-meta">Jun 24, 2015</span>
+
+                                        <h3>
+                                          <a class="post-link" href="/2015/06/24/week-one.html">Week One</a>
+                                        </h3>
+                                      </li>
+                                    
+                                    </ul>
+
                                     Maxime, quis, animi, ad quasi adipisci suscipit alias iste reprehenderit ea placeat nulla commodi nobis magnam provident veniam earum odit eveniet possimus aut voluptatum dolorum culpa necessitatibus facere totam quisquam. Ipsam.
                                 </p>
                             </div>
@@ -294,6 +258,18 @@
                                 <h2>
                                     <a><span class="glyphicon glyphicon-bullhorn"></span></a>&nbsp;&nbsp;Product 5</h2>
                                 <p>
+                                    <ul class="post-list">
+                                    
+                                      <li>
+                                        <span class="post-meta">Jun 24, 2015</span>
+
+                                        <h3>
+                                          <a class="post-link" href="/2015/06/24/week-one.html">Week One</a>
+                                        </h3>
+                                      </li>
+                                    
+                                    </ul>
+
                                     Maxime, quis, animi, ad quasi adipisci suscipit alias iste reprehenderit ea placeat nulla commodi nobis magnam provident veniam earum odit eveniet possimus aut voluptatum dolorum culpa necessitatibus facere totam quisquam. Ipsam.
                                 </p>
                             </div>
@@ -302,6 +278,18 @@
                                 <h2>
                                     <a><span class="glyphicon glyphicon-time"></span></a>&nbsp;&nbsp;Product 6</h2>
                                 <p>
+                                    <ul class="post-list">
+                                    
+                                      <li>
+                                        <span class="post-meta">Jun 24, 2015</span>
+
+                                        <h3>
+                                          <a class="post-link" href="/2015/06/24/week-one.html">Week One</a>
+                                        </h3>
+                                      </li>
+                                    
+                                    </ul>
+
                                     Maxime, quis, animi, ad quasi adipisci suscipit alias iste reprehenderit ea placeat nulla commodi nobis magnam provident veniam earum odit eveniet possimus aut voluptatum dolorum culpa necessitatibus facere totam quisquam. Ipsam.
                                 </p>
                             </div>
@@ -312,13 +300,6 @@
             </div>
         </div>
 
-        <a id="Food"></a>
-        <div class="wow slideInRight">
-            <div class="row gallary">
-                <h3>Gallery At Glance</h3>
-                 <iframe src="Flip_turn/index.html" height="650" style="border: 0px; width:100%;"></iframe>
-            </div>
-        </div>
 
         <a id="About"></a>
         <div class="contact_us">
@@ -332,6 +313,11 @@
             </div>
         </div>
                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3155.9492104524425!2d-122.16471299999999!3d37.72087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f8f8dddf00505%3A0xdb6aa8d322552317!2s1328+Orchard+Ave%2C+San+Leandro%2C+CA+94577!5e0!3m2!1sen!2sus!4v1435021832086"  height="400"  style="border:0px; width:100%; "></iframe>
+
+
+      </div>
+    </div>
+
 
         <div class="p_footer">
             <div class="col-sm-12 t_right">
