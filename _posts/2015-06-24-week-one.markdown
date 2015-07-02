@@ -1,9 +1,14 @@
 ---
-layout: main
+layout: post
 title: "Week One"
 date: 2015-06-24 17:20:10
 categories:
 ---
+
+
+
+Hello world
+
 
 
 
