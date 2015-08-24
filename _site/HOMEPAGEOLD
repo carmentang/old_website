@@ -125,7 +125,7 @@ function(a){var b=new XMLHttpRequest;b.open("GET","/api/rollups/error?path="+enc
         --><!-- comment the linebreak between these two elements because science
         -->
             <div id="content" class="main-content" data-content-field="main-content" data-collection-id="549019ece4b00cdae11ceb03" data-edit-main-image="Banner">
-            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1427502706273" id="page-549019ece4b00cdae11ceb03"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_11_1423744411834_10611"><div class="sqs-block-content"><h1 class="text-align-center">Blog</h1><p dir="ltr" class="text-align-center">"Nothing is ever really lost to us as long as we remember it." ― L.M. Montgomery&nbsp;</p></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_3_1418738250844_8648"><div class="sqs-block-content"></div></div><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionId&quot;:&quot;548998eee4b0219a528374d0&quot;,&quot;design&quot;:&quot;autogrid&quot;,&quot;headerText&quot;:&quot;Featured&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:30,&quot;imageAspectRatio&quot;:&quot;1.5&quot;,&quot;columnWidth&quot;:270,&quot;gutter&quot;:60,&quot;listImageSize&quot;:30,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:3,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:true,&quot;showReadMoreLink&quot;:true,&quot;showPrice&quot;:true,&quot;showPastOrUpcomingEvents&quot;:&quot;Upcoming&quot;,&quot;metadataPosition&quot;:&quot;below-content&quot;,&quot;primaryMetadata&quot;:&quot;date&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&quot;category&quot;:null,&quot;tag&quot;:&quot;food&quot;&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true&#125;" data-block-type="55" id="block-yui_3_17_2_36_1418729662126_6192">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1427502706273" id="page-549019ece4b00cdae11ceb03"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_11_1423744411834_10611"><div class="sqs-block-content"><h5 class="text-align-center">Welcome</h5><br><br><br><a href="/Blog"><h3 dir="ltr" class="text-align-center">Latest Posts</h3></a></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_3_1418738250844_8648"><div class="sqs-block-content"></div></div><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionId&quot;:&quot;548998eee4b0219a528374d0&quot;,&quot;design&quot;:&quot;autogrid&quot;,&quot;headerText&quot;:&quot;Featured&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:30,&quot;imageAspectRatio&quot;:&quot;1.5&quot;,&quot;columnWidth&quot;:270,&quot;gutter&quot;:60,&quot;listImageSize&quot;:30,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:3,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:true,&quot;showReadMoreLink&quot;:true,&quot;showPrice&quot;:true,&quot;showPastOrUpcomingEvents&quot;:&quot;Upcoming&quot;,&quot;metadataPosition&quot;:&quot;below-content&quot;,&quot;primaryMetadata&quot;:&quot;date&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&quot;category&quot;:null,&quot;tag&quot;:&quot;food&quot;&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true&#125;" data-block-type="55" id="block-yui_3_17_2_36_1418729662126_6192">
             <div class="sqs-block-content">
 
             <div class="
@@ -748,10 +748,630 @@ function(a){var b=new XMLHttpRequest;b.open("GET","/api/rollups/error?path="+enc
         </div><!-- comment the linebreak between these two elements because science
         -->
 
+<br><br><br><br>
+
+        
+            <div id="content" class="main-content" data-content-field="main-content" data-collection-id="549019ece4b00cdae11ceb03" data-edit-main-image="Banner">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1427502706273" id="page-549019ece4b00cdae11ceb03"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_11_1423744411834_10611"><div class="sqs-block-content"><a href="/Travel"><h3 dir="ltr" class="text-align-center">Featured Posts</h3></a></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_3_1418738250844_8648"><div class="sqs-block-content"></div></div><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionId&quot;:&quot;548998eee4b0219a528374d0&quot;,&quot;design&quot;:&quot;autogrid&quot;,&quot;headerText&quot;:&quot;Featured&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:30,&quot;imageAspectRatio&quot;:&quot;1.5&quot;,&quot;columnWidth&quot;:270,&quot;gutter&quot;:60,&quot;listImageSize&quot;:30,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:3,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:true,&quot;showReadMoreLink&quot;:true,&quot;showPrice&quot;:true,&quot;showPastOrUpcomingEvents&quot;:&quot;Upcoming&quot;,&quot;metadataPosition&quot;:&quot;below-content&quot;,&quot;primaryMetadata&quot;:&quot;date&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&quot;category&quot;:null,&quot;tag&quot;:&quot;food&quot;&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true&#125;" data-block-type="55" id="block-yui_3_17_2_36_1418729662126_6192">
+            <div class="sqs-block-content">
+
+            <div class="
+              
+              summary-block-wrapper
+              summary-block-collection-type-blog
+              summary-block-setting-text-size-medium
+              summary-block-setting-text-align-left
+              summary-block-setting-design-autogrid
+              summary-block-setting-design-list-thumbnail-left
+              summary-block-setting-metadata-position-below-content
+              summary-block-setting-primary-metadata-date
+              summary-block-setting-secondary-metadata-none
+              summary-block-setting-show-thumbnail
+              summary-block-setting-show-title
+              summary-block-setting-show-price
+              summary-block-setting-show-excerpt
+              summary-block-setting-show-read-more-link
+              sqs-gallery-design-autogrid
+              sqs-gallery-design-carousel-slides-in-view-3
+            ">
+
+            <div class="summary-item-list-container sqs-gallery-container">
+                <header class="summary-block-header">
+
+                  <!-- Collection Title -->
+                    <div class="summary-heading">
+                        <span class="summary-header-text">Featured</span>
+                    </div>
+
+                  <!-- Carousel Nav -->
+                    <div class="summary-carousel-pager sqs-gallery-controls">
+                        <span class="summary-carousel-pager-next next"></span>
+                        <span class="summary-carousel-pager-prev previous"></span>
+                    </div>
+
+                </header>
+
+                <div class="summary-item-list sqs-gallery">
+
+                    <div class="
+                      summary-item
+                      summary-item-record-type-text
+                      sqs-gallery-design-autogrid-slide
+                       summary-item-has-thumbnail
+                       summary-item-has-excerpt
+                      summary-item-has-cats
+                      summary-item-has-tags
+                      summary-item-has-author
+                      summary-item-has-comments-enabled
+                    ">
+                      
+                        <!-- Thumbnail -->
+                    <a href="/blog/2015/6/29/pixel-coffee-brewers" class="summary-thumbnail-container sqs-gallery-image-container" data-title="Pumpkin for breakfast at Pixel Coffee Brewers" data-description="">
+                        <div class="summary-thumbnail img-wrapper">
+                  
+                        <!-- First Image in Post -->
+                        <img data-src="http://static1.squarespace.com/static/54885aade4b0e5aee0e946d1/t/55907b87e4b09d60c5d87221/1435532178073/" data-image-dimensions="1732x1155" data-load="false" class="summary-thumbnail-image" />
+
+                        </div>
+                    </a>
+
+                        <div class="summary-content sqs-gallery-meta-container">
+
+                                <!-- Metadata (Above Title) -->
+                                <div class="summary-metadata-container summary-metadata-container--above-title">
+                                <div class="summary-metadata summary-metadata--primary">
+
+                            <!-- Timestamp -->
+                            <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                            <!-- Categories -->
+                            <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                            <!-- Tags -->
+                            <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                            <!-- Author -->
+                            <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                            <!-- Comments -->
+                            <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                            </span>
+
+                        
+                        </div>
+                        
+                        <div class="summary-metadata summary-metadata--secondary">
+
+                            <!-- Timestamp -->
+                            <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                            <!-- Categories -->
+                            <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                            <!-- Tags -->
+                            <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                            <!-- Author -->
+                            <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                            <!-- Comments -->
+                            <span class="summary-metadata-item summary-metadata-item--comments">
+                            
+                                
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                            
+                            
+                            </span>
+
+                            
+                        </div>
+                    </div>
+                        
+                    <!-- Title -->
+                    <div class="summary-title">
+                        <a href="/blog/2015/6/29/pixel-coffee-brewers"
+                        class="summary-title-link">Pumpkin for breakfast at Pixel Coffee Brewers</a></div>
+                    
+                    <!-- Metadata (Below Title) -->
+                    <div class="summary-metadata-container summary-metadata-container--below-title">
+                    <div class="summary-metadata summary-metadata--primary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">  
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+
+                    </div>
+                    
+
+                    <div class="summary-metadata summary-metadata--secondary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    </div>
+
+                                  
+                      <!-- Excerpt -->
+                    <div class="summary-excerpt">
+                        <p>Sweet and fanciful concoctions with combinations like coconut and lime in five different layers and honey and chamomile towers of sweetness are&nbsp;so hard to stay away from.</p>
+                    </div>
+                      
+                        <!-- Read More Link -->
+                    <a href="/blog/2015/6/29/pixel-coffee-brewers" class="summary-read-more-link"></a>      
+
+                    <!-- Metadata (Below Content) -->
+                    <div class="summary-metadata-container summary-metadata-container--below-content">
+                    <div class="summary-metadata summary-metadata--primary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                    <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    
+                    <div class="summary-metadata summary-metadata--secondary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    </div>
+
+                        </div> <!-- End .summary-content -->
+                </div> <!-- End .summary-item -->
+
+
+
+
+                    <div class="
+                      summary-item
+                      summary-item-record-type-text
+                      sqs-gallery-design-autogrid-slide
+                       summary-item-has-thumbnail
+                       summary-item-has-excerpt
+                      summary-item-has-cats
+                      summary-item-has-tags
+                      summary-item-has-author
+                      summary-item-has-comments-enabled
+                    ">
+                      
+                        <!-- Thumbnail -->
+                    <a href="/blog/2015/6/29/pixel-coffee-brewers" class="summary-thumbnail-container sqs-gallery-image-container" data-title="Pumpkin for breakfast at Pixel Coffee Brewers" data-description="">
+                        <div class="summary-thumbnail img-wrapper">
+                  
+                        <!-- First Image in Post -->
+                        <img data-src="http://static1.squarespace.com/static/54885aade4b0e5aee0e946d1/t/55907b87e4b09d60c5d87221/1435532178073/" data-image-dimensions="1732x1155" data-load="false" class="summary-thumbnail-image" />
+
+                        </div>
+                    </a>
+
+                        <div class="summary-content sqs-gallery-meta-container">
+
+                                <!-- Metadata (Above Title) -->
+                                <div class="summary-metadata-container summary-metadata-container--above-title">
+                                <div class="summary-metadata summary-metadata--primary">
+
+                            <!-- Timestamp -->
+                            <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                            <!-- Categories -->
+                            <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                            <!-- Tags -->
+                            <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                            <!-- Author -->
+                            <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                            <!-- Comments -->
+                            <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                            </span>
+
+                        
+                        </div>
+                        
+                        <div class="summary-metadata summary-metadata--secondary">
+
+                            <!-- Timestamp -->
+                            <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                            <!-- Categories -->
+                            <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                            <!-- Tags -->
+                            <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                            <!-- Author -->
+                            <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                            <!-- Comments -->
+                            <span class="summary-metadata-item summary-metadata-item--comments">
+                            
+                                
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                            
+                            
+                            </span>
+
+                            
+                        </div>
+                    </div>
+                        
+                    <!-- Title -->
+                    <div class="summary-title">
+                        <a href="/blog/2015/6/29/pixel-coffee-brewers"
+                        class="summary-title-link">Pumpkin for breakfast at Pixel Coffee Brewers</a></div>
+                    
+                    <!-- Metadata (Below Title) -->
+                    <div class="summary-metadata-container summary-metadata-container--below-title">
+                    <div class="summary-metadata summary-metadata--primary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">  
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+
+                    </div>
+                    
+
+                    <div class="summary-metadata summary-metadata--secondary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    </div>
+
+                                  
+                      <!-- Excerpt -->
+                    <div class="summary-excerpt">
+                        <p>Sweet and fanciful concoctions with combinations like coconut and lime in five different layers and honey and chamomile towers of sweetness are&nbsp;so hard to stay away from.</p>
+                    </div>
+                      
+                        <!-- Read More Link -->
+                    <a href="/blog/2015/6/29/pixel-coffee-brewers" class="summary-read-more-link"></a>      
+
+                    <!-- Metadata (Below Content) -->
+                    <div class="summary-metadata-container summary-metadata-container--below-content">
+                    <div class="summary-metadata summary-metadata--primary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                    <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    
+                    <div class="summary-metadata summary-metadata--secondary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    </div>
+
+                        </div> <!-- End .summary-content -->
+                </div> <!-- End .summary-item -->
+
+                     <div class="
+                      summary-item
+                      summary-item-record-type-text
+                      sqs-gallery-design-autogrid-slide
+                       summary-item-has-thumbnail
+                       summary-item-has-excerpt
+                      summary-item-has-cats
+                      summary-item-has-tags
+                      summary-item-has-author
+                      summary-item-has-comments-enabled
+                    ">
+                      
+                        <!-- Thumbnail -->
+                    <a href="/blog/2015/6/29/pixel-coffee-brewers" class="summary-thumbnail-container sqs-gallery-image-container" data-title="Pumpkin for breakfast at Pixel Coffee Brewers" data-description="">
+                        <div class="summary-thumbnail img-wrapper">
+                  
+                        <!-- First Image in Post -->
+                        <img data-src="http://static1.squarespace.com/static/54885aade4b0e5aee0e946d1/t/55907b87e4b09d60c5d87221/1435532178073/" data-image-dimensions="1732x1155" data-load="false" class="summary-thumbnail-image" />
+
+                        </div>
+                    </a>
+
+                        <div class="summary-content sqs-gallery-meta-container">
+
+                                <!-- Metadata (Above Title) -->
+                                <div class="summary-metadata-container summary-metadata-container--above-title">
+                                <div class="summary-metadata summary-metadata--primary">
+
+                            <!-- Timestamp -->
+                            <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                            <!-- Categories -->
+                            <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                            <!-- Tags -->
+                            <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                            <!-- Author -->
+                            <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                            <!-- Comments -->
+                            <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                            </span>
+
+                        
+                        </div>
+                        
+                        <div class="summary-metadata summary-metadata--secondary">
+
+                            <!-- Timestamp -->
+                            <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                            <!-- Categories -->
+                            <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                            <!-- Tags -->
+                            <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                            <!-- Author -->
+                            <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                            <!-- Comments -->
+                            <span class="summary-metadata-item summary-metadata-item--comments">
+                            
+                                
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                            
+                            
+                            </span>
+
+                            
+                        </div>
+                    </div>
+                        
+                    <!-- Title -->
+                    <div class="summary-title">
+                        <a href="/blog/2015/6/29/pixel-coffee-brewers"
+                        class="summary-title-link">Pumpkin for breakfast at Pixel Coffee Brewers</a></div>
+                    
+                    <!-- Metadata (Below Title) -->
+                    <div class="summary-metadata-container summary-metadata-container--below-title">
+                    <div class="summary-metadata summary-metadata--primary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">  
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+
+                    </div>
+                    
+
+                    <div class="summary-metadata summary-metadata--secondary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    </div>
+
+                                  
+                      <!-- Excerpt -->
+                    <div class="summary-excerpt">
+                        <p>Sweet and fanciful concoctions with combinations like coconut and lime in five different layers and honey and chamomile towers of sweetness are&nbsp;so hard to stay away from.</p>
+                    </div>
+                      
+                        <!-- Read More Link -->
+                    <a href="/blog/2015/6/29/pixel-coffee-brewers" class="summary-read-more-link"></a>      
+
+                    <!-- Metadata (Below Content) -->
+                    <div class="summary-metadata-container summary-metadata-container--below-content">
+                    <div class="summary-metadata summary-metadata--primary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                    <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    
+                    <div class="summary-metadata summary-metadata--secondary">
+
+                        <!-- Timestamp -->
+                        <time class="summary-metadata-item summary-metadata-item--date" datetime="2015-06-29">Jun 29, 2015</time>
+
+                        <!-- Categories -->
+                        <span class="summary-metadata-item summary-metadata-item--cats"><a href="/blog/?category=food">food</a>, <a href="/blog/?category=perth">perth</a></span>
+
+                        <!-- Tags -->
+                        <span class="summary-metadata-item summary-metadata-item--tags"><a href="/blog/?tag=food">food</a></span>
+
+                        <!-- Author -->
+                        <span class="summary-metadata-item summary-metadata-item--author"><a href="/blog/?author=54885aace4b0a0b35b61bce3#show-archive">Suanlee</a></span>
+
+                        <!-- Comments -->
+                        <span class="summary-metadata-item summary-metadata-item--comments">
+                            <a href="/blog/2015/6/29/pixel-coffee-brewers#comments-55907a49e4b094257187da08">Comment</a>
+                        </span>
+                        
+                    </div>
+                    </div>
+
+                        </div> <!-- End .summary-content -->
+                </div> <!-- End .summary-item -->
+
                 
+
+        
+  </div> <!-- End .summary-item-list-container -->
+
+</div>
+</div></div></div></div></div>
+        </div><!-- comment the linebreak between these two elements because science
+        -->
+        
       </main>
 
     </body>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
