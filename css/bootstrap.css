@@ -5,6 +5,14 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+.name-title {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -1126,7 +1134,8 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  width: 100%;
+  margin: auto;
   height: auto;
 }
 .img-rounded {
@@ -6075,12 +6084,16 @@ button.close {
   border-left-color: #fff;
 }
 .carousel {
+  width:640px;
   position: relative;
+  margin: auto;
+
 }
 .carousel-inner {
   position: relative;
   width: 100%;
   overflow: hidden;
+  max-height: 400px !important;
 }
 .carousel-inner > .item {
   position: relative;
