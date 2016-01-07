@@ -6,11 +6,170 @@
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
+
+
+
+
+
+#body {
+  width: 100%;
+}
+#body h1 {
+  display: block;
+  font-size: 20px;
+  margin: 0 auto;
+  width: 90%;
+}
+#body h1 span {
+  display: block;
+  padding: 3%;
+  width: 94%;
+}
+#body > div {
+  padding: 0 5%;
+  width: 90%;
+}
+#body > div img {
+  margin: 24px 0 30px;
+  width: 98%
+}
+#body > div .article {
+  padding: 0;
+  width: 100%;
+}
+#body > div .article h2, #body > div .article h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+#body > ul {
+  overflow: visible;
+  padding: 0 5%;
+  width: 90%;
+}
+#body ul.gallery {
+  padding: 5% 0;
+  overflow: hidden;
+  width: 100%;
+}
+#body > ul li {
+  float: none;
+  margin: 0;
+  width: 100%;
+}
+#body ul.gallery li {
+  float: left;
+  margin: 0 0 5% 5%;
+  width: 42%;
+}
+#body > ul li a img {
+  width: 98%;
+}
+#body > ul li a span {
+  padding: 15px 0;
+}
+#body div ul {
+  margin: 0;
+  padding: 20px 0 0;
+  width: 100%;
+}
+#body div ul li {
+  overflow: visible;
+  padding: 0 0 20px;
+  width: 99%;
+}
+#body div ul li .figure {
+  border: 0;
+  display: block;
+  float: none;
+  margin: 0 0 20px;
+  width: 100%;
+}
+#body div ul li .figure img {
+  width: 100%;
+}
+#body div ul li div {
+  float: none;
+  padding: 0;
+  width: 100%;
+}
+#body div ul li div a.more:hover {
+  height: 14px;
+  line-height: 14px;
+}
+#body form {
+  width: 100%;
+}
+#body form input, #body form textarea {
+  margin: 0 0 20px;
+  padding: 10px;
+  width: 84%;
+}
+#body form #send {
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
 .name-title {
   padding-top: 100px;
   padding-bottom: 20px;
   background-color: white;
 }
+
+
+/*  SECTIONS  */
+.section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+/*  GRID OF TWO  */
+.span_2_of_2 {
+  width: 100%;
+}
+.span_1_of_2 {
+  width: 49.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+  .col { 
+    margin: 1% 0 1% 0%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .span_2_of_2, .span_1_of_2 { width: 100%; }
+}
+
+
+
+
+
+
 
 
 html {
@@ -1137,6 +1296,7 @@ img {
   width: 100%;
   margin: auto;
   height: auto;
+  position: relative;
 }
 .img-rounded {
   border-radius: 6px;
@@ -6084,16 +6244,16 @@ button.close {
   border-left-color: #fff;
 }
 .carousel {
-  width:640px;
+  max-width: 640px !important;
   position: relative;
   margin: auto;
 
 }
 .carousel-inner {
+  max-height: 420px !important;
   position: relative;
-  width: 100%;
   overflow: hidden;
-  max-height: 400px !important;
+  margin: auto;
 }
 .carousel-inner > .item {
   position: relative;
